@@ -1,15 +1,19 @@
 # Desenvolvido por: Markineo
 # https://github.com/vinicius-paraujo
 
+# Nome do mundo principal das minas.
 minas_world: "minas"
+# Comandos que são permitidos nas minas.
 allowed_commands: ["/spawn", "/g"]
 
+# Blocos e seus respectivos valores.
 blocks:
   1:
     material: 'material'
     short_value: 0
     price: 0.0
 
+# Bônus de venda de cada jogador com base na permissão.
 bonus:
   vip1:
     permission: "celestial.sirius"
@@ -17,7 +21,8 @@ bonus:
   default:
     permission: "celestial.membro"
     bonus: 0.0
-    
+
+# Configuração da Location através do comando de configuração.
 minas:
   2:
     permission: 'celestial.rank2'
