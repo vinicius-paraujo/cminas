@@ -1,3 +1,6 @@
+# Desenvolvido por: Markineo
+# https://github.com/vinicius-paraujo
+
 host: 'localhost'
 port: 3306
 database: 'celestial'
