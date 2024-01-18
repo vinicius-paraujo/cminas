@@ -1,16 +1,19 @@
+# Desenvolvido por: Markineo
+# https://github.com/vinicius-paraujo
+
 pickaxe_data:
-    name: "Nanopicareta"
-    description:
-        - "&eDuração: &a∞"
-        - "&eEficiência&8: &a|&8||||"
-        - ""
-        - "&eBotão direito para evoluir."
-
-
-itens:
-    1:
-        porcentagem: 0.05
-        data: null
-    2:
-        porcecntagem: 0.01
-        data: null
+  # Nome no menu
+  name: §bNanopicareta
+  # Eficiência base da picareta
+  efficiency_base: 10
+  # Multiplicador da eficiência com base do level
+  level_multipler: 2.5
+  max_level: 10
+  description:
+  - '&8• &fDuração: &b∞'
+  - '&8• &fLevel&8: {level}'
+  - ''
+  - '&6Botão direito para evoluir.'
+ 
+# Configurável por comando. 
+itens: null
