@@ -9,6 +9,8 @@ err_messages:
   5: "&cVocê precisa esvaziar seu inventário antes de ir para as minas."
   6: "&cA posição da sua mina ainda não foi definida."
   7: "&cVocê não pode usar comandos na mina, para sair digite &e/spawn&c."
+  8: "&cVocê não possui os requerimentos necessários para evoluir."
+  9: "&cSua picareta já alcançou o level máximo."
 
 action_bar_messages:
   block_break: "&a+ {valor} [Bônus: {bonus}]"
@@ -16,5 +18,8 @@ action_bar_messages:
 
 minas_messages:
   title: "&4&lMINAS"
-  subtitle: "&e{rank}"
+  subtitle: "&eBoa mineração!"
   1: "&aVocê foi teleportado para a mina."
+  2: "&eVocê definiu a posição da mina, use &c/cminas reload &epara aplicar."
+  3: "&eVocê adicionou um item a mina com {porcentagem}% de chance de se obter minerando."
+  4: "&eVocê evoluiu sua picareta! Parabéns!"
