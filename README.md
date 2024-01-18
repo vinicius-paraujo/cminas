@@ -1,13 +1,13 @@
-# cminas - Plugin de Minas
+# cMinas - Plugin de Minas
 Por: Markineo
 
 ## Descrição
 
-O **cminas** é um plugin desenvolvido a partir do Spigot 1.8. Ele oferece funcionalidades relacionadas a mineração, contagem de blocos quebrados e evolução de picaretas.
+O **cMinas** é um plugin desenvolvido a partir do Spigot 1.8. Ele oferece funcionalidades relacionadas a mineração, contagem de blocos quebrados e evolução de picaretas.
 
 ## Funcionalidades
 
-- Viagem para o mundo das minas com picareta personalizada.
+- Teleporte para o mundo das minas com picareta personalizada.
 - Adição de itens customizados como recompensa nas minas.
 - Contagem de blocos quebrados para evolução da picareta.
 - Minas configuráveis através de comandos de administração.
