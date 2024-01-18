@@ -1,0 +1,20 @@
+# Desenvolvido por: Markineo
+# https://github.com/vinicius-paraujo
+
+err_messages:
+  1: "&cComando não encontrado."
+  2: "&cA porcentagem de tesouros das minas já alcançou 100%, você não pode adicionar mais."
+  3: "&ca porcentagem inserida é inválida."
+  4: "&cNenhuma mina foi encontrada para você, por favor contate um administrador."
+  5: "&cVocê precisa esvaziar seu inventário antes de ir para as minas."
+  6: "&cA posição da sua mina ainda não foi definida."
+  7: "&cVocê não pode usar comandos na mina, para sair digite &e/spawn&c."
+
+action_bar_messages:
+  block_break: "&a+ {valor} [Bônus: {bonus}]"
+  teasure: "&aVocê encontrou {item} minerando."
+
+minas_messages:
+  title: "&4&lMINAS"
+  subtitle: "&e{rank}"
+  1: "&aVocê foi teleportado para a mina."

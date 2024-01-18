@@ -1,0 +1,16 @@
+pickaxe_data:
+    name: "Nanopicareta"
+    description:
+        - "&eDuração: &a∞"
+        - "&eEficiência&8: &a|&8||||"
+        - ""
+        - "&eBotão direito para evoluir."
+
+
+itens:
+    1:
+        porcentagem: 0.05
+        data: null
+    2:
+        porcecntagem: 0.01
+        data: null

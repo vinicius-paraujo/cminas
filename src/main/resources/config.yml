@@ -1,0 +1,27 @@
+# Desenvolvido por: Markineo
+# https://github.com/vinicius-paraujo
+
+minas_world: "minas"
+allowed_commands: ["/spawn", "/g"]
+
+blocks:
+  1:
+    material: 'material'
+    short_value: 0
+    price: 0.0
+
+bonus:
+  vip1:
+    permission: "celestial.sirius"
+    bonus: 0.25
+  default:
+    permission: "celestial.membro"
+    bonus: 0.0
+    
+minas:
+  2:
+    permission: 'celestial.rank2'
+    location: null
+  1:
+    permission: 'celestial.rank1'
+    location: null
