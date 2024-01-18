@@ -1,0 +1,9 @@
+name: cMinas
+version: 1.2.0
+main: com.markineo.cminas.Minas
+depend: [WorldGuard]
+commands:
+  cminas:
+  minasadmin:
+  mina:
+  setmina:
